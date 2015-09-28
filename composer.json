@@ -1,5 +1,5 @@
 {
-  "name": "kozz/email-address-parser",
+  "name": "yadelivery/email-address-parser",
   "type": "library",
   "description": "Simply parses and autocompletes email addresses",
   "keywords": ["email", "parser", "address"],
@@ -16,7 +16,7 @@
 
   "require": {
     "php": ">=5.4.0",
-    "kozz/collection": "*"
+    "yadelivery/collection": "*"
   },
 
   "suggest": {
